@@ -1,7 +1,7 @@
 context:
   name: scifem
   version: "0.20.0"
-  fenics_version: "0.10.*"
+  fenics_version: "0.11.*"
   abi_version: 2.${{ nanobind_abi }}
   abi3_python: "3.12"
   build_abi3: ${{ match(python, abi3_python + ".*") and is_abi3 }}
@@ -17,7 +17,7 @@ source:
   sha256: 4a3439f8c9d345d1fd2ec5a6beeda4e7fbf81757c4c14a827093c4926342b292
 
 build:
-  number: 0
+  number: 1
   skip:
     - win
     - match(python, "<3.10")
