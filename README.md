@@ -41,20 +41,6 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>osx_64_mpimpichpython3.10.____cpythonscalarcomplex</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=23557&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/scifem-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_mpimpichpython3.10.____cpythonscalarcomplex" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_mpimpichpython3.10.____cpythonscalarreal</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=23557&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/scifem-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_mpimpichpython3.10.____cpythonscalarreal" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
               <td>osx_64_mpimpichpython3.11.____cpythonscalarcomplex</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=23557&branchName=main">
@@ -80,20 +66,6 @@ Current build status
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=23557&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/scifem-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_mpimpichpython3.12.____cpythonscalarreal" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_mpiopenmpipython3.10.____cpythonscalarcomplex</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=23557&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/scifem-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_mpiopenmpipython3.10.____cpythonscalarcomplex" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_mpiopenmpipython3.10.____cpythonscalarreal</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=23557&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/scifem-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_mpiopenmpipython3.10.____cpythonscalarreal" alt="variant">
                 </a>
               </td>
             </tr><tr>
