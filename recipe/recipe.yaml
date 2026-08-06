@@ -1,6 +1,6 @@
 context:
   name: scifem
-  version: "0.20.2"
+  version: "0.21.0"
   fenics_version: "0.11.*"
   abi_version: 2.${{ nanobind_abi }}
   abi3_python: "3.12"
@@ -14,7 +14,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/scifem/scifem-${{ version }}.tar.gz
-  sha256: e47f3ddc6586e5f4f6dbdfaed4d651acf4b8e5f314e5f01b5baeb5d44fa10ce1
+  sha256: ccccd6f76865d9b6e71a4eb2f4c3961be6ee78d3cd8b4092e2e11bd6649abb37
 
 build:
   number: 0
